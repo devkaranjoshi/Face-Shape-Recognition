@@ -1,0 +1,5 @@
+Download
+https://drive.google.com/drive/folders/13r2kU0Zthjiq4vUSHPzEB-ZBwYdtSYIC?usp=sharing
+
+To use this model in your own project use
+keras.models.load_model('model full path')
